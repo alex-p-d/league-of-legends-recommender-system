@@ -1,7 +1,5 @@
-==========
-HOW TO RUN
-==========
 
+HOW TO RUN
 -----------------------------------------------------------------
 The project was developed on python 3.10.16 and it is recommended
 to use that version if testing the code. It is developed on Ubuntu
